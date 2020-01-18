@@ -1,0 +1,11 @@
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.exe
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.deps.json
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.runtimeconfig.json
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.runtimeconfig.dev.json
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.dll
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\bin\Debug\netcoreapp3.1\ServerManagementFactory.pdb
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\obj\Debug\netcoreapp3.1\ServerManagementFactory.csprojAssemblyReference.cache
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\obj\Debug\netcoreapp3.1\ServerManagementFactory.AssemblyInfoInputs.cache
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\obj\Debug\netcoreapp3.1\ServerManagementFactory.AssemblyInfo.cs
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\obj\Debug\netcoreapp3.1\ServerManagementFactory.dll
+C:\Users\Tony Chacon\ProgrammingPractice\ServerManagementFactory\obj\Debug\netcoreapp3.1\ServerManagementFactory.pdb
